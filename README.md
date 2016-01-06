@@ -28,7 +28,9 @@
 
 ## web 后端
 - 介绍待加
-- [flask 教程](https://github.com/Muxi-Flask/Flask-Resources)
+- flask
+  - [flask教程](https://github.com/Muxi-Flask/Flask-Resources)
+  - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 
 
 ## 待加大方向
 - 待加小方向
