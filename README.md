@@ -31,6 +31,8 @@
 - flask
   - [flask教程](https://github.com/Muxi-Flask/Flask-Resources)
   - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 
+- restful API
+  - [RESTful API 设计规范(华科冰岩团队整理)]( https://github.com/BingyanStudio/share-and-standards/blob/master/RESTful-API-design-standards.md)
 
 ## 待加大方向
 - 待加小方向
