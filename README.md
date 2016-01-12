@@ -27,10 +27,14 @@
 - [Muxi-Studio整理](https://github.com/Muxi-Studio/awesome_fe/blob/master/README.md)
 
 ## web 后端
+
 - 介绍待加
-- flask
-  - [flask教程](https://github.com/Muxi-Flask/Flask-Resources)
-  - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 
+- web服务器
+  - [一起来写一个web服务器](http://python.jobbole.com/81524/)
+- 后端框架
+  - flask
+    - [flask教程](https://github.com/Muxi-Flask/Flask-Resources)
+    - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) 
 - restful API
   - [RESTful API 设计规范(华科冰岩团队整理)]( https://github.com/BingyanStudio/share-and-standards/blob/master/RESTful-API-design-standards.md)
 
